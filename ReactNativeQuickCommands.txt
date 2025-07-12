@@ -1,0 +1,4 @@
+Check Version of node and npm
+node -v 
+npm -v 
+
